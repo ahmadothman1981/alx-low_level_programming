@@ -1,6 +1,9 @@
-#include<stdio.h>
+#include <stdio.h>
 int main(void)
 {
+	/**
+	 * main point 
+	 * return 0 suuccedded
 	puts("\"Programming is like building a multilingual puzzle");
 	return(0);
 
