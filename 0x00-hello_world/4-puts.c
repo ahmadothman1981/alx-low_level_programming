@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
- *  * main is  start function
+ *  * main - Entry point
  *   *
- *    *return value 0 meaning succedded function
- *    */
+ *    * Return: Always 0 (Success)
+ *     */
 int main(void)
 {
 		puts("\"Programming is like building a multilingual puzzle");
