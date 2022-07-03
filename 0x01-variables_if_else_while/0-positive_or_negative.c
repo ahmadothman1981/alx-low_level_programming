@@ -5,6 +5,9 @@
 
 /* betty style doc for function main goes there */
 int main(void)
+/**
+ * main entery point
+ */
 {
 		int n;
 
