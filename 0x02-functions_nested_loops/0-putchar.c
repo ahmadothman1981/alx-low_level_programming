@@ -5,10 +5,10 @@
  *   * Description: It prints the word followed by a new line.
  *    * Return: 0.
 */
-int main()
+int main(void)
 {
 	char msg[] = "_putchar";
-   	int i;
+	int i;
 	for (i = 0; i < 9 ; i++)
 	{
 		_putchar(msg[i]);
