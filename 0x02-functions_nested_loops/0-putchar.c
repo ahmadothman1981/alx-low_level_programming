@@ -1,4 +1,4 @@
-#main.h
+#include"main.h"
 /**
  *  * main - Check description
  *   * Description: It prints the word followed by a new line.
